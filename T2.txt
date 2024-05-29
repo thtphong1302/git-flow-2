@@ -1,1 +1,2 @@
 user1 them file T2.txt
+user1 update lan 1
