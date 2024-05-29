@@ -1,1 +1,2 @@
-T1 update
+T1 update,
+update lan 2
