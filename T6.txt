@@ -1,1 +1,2 @@
 Them file T6.txt
+file T6 update lan 1
